@@ -7,3 +7,16 @@ In this repository, you will find detailed documentation, code samples, and prac
 This repository serves as a comprehensive collection of everything I've learned and implemented in the field of Artificial Intelligence and Data Science, covering various phases of a project including development, build, release, deployment, and more.
 
 Feel free to explore, learn, and contribute as I continue to update this repository with new insights and techniques. Let's embark on this Data Science and Analytics journey together!
+
+
+## Status
+
+* API -> ⌛
+* Docker -> ⌛
+* Git -> ✅
+* Linux -> ⌛
+* Machine Learning -> ⌛
+* MLOps -> ⌛
+* Power BI -> ⌛
+* R -> ⌛
+* SQL -> ⌛
