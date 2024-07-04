@@ -97,7 +97,7 @@ Then you can run git commands on your command shell (e.g. git bash, cmd, powersh
 ## Section Four: Advanced
 * `git can specify which files or parts of your project should be ignored by Git using a .gitignore file`
 * `git will not track files and folders specified in .gitignore, however, the .gitignore file itself IS tracked by Git.`
-* `touch .gitignore`: create a .gitignore file ()
+* `touch .gitignore`: create a .gitignore file
 * `it is possible to have additional .gitignore files in subdirectories that only apply to files or folders within that directory.`
 * `general rules for matching patterns in .gitignore files:`
 
@@ -111,16 +111,16 @@ Then you can run git commands on your command shell (e.g. git bash, cmd, powersh
 * `SSH uses a pair of SSH keys to establish an authenticated and encrypted secure network protocol. It allows for secure remote communication on unsecured open networks.`
 * `generating an SSH key pair:`
 
-    1. ssh-keygen -t rsa -b 4096 -C "<your email>"
-    2. ssh-add /Users/user/.ssh/id_rsa
+    1. `ssh-keygen -t rsa -b 4096 -C "<your email>"`
+    2. `ssh-add /Users/user/.ssh/id_rsa`
 
 * `use SSH in GitHub:`
 
-    1. clip < /Users/user/.ssh/id_rsa.pub -> copy the key to your clipboard
+    1. `clip < /Users/user/.ssh/id_rsa.pub` -> copy the key to your clipboard
     2. add SSH key on GitHub setting
-    3. ssh -T <your email> -> test SSH connection
-    4. git remote add ssh-origin <repository SSH URL> -> add a new origin by SSH
-    5. git remote set-url origin <repository SSH URL> -> change a remote origin from HTTPS to SSH
+    3. `ssh -T <your email>` -> test SSH connection
+    4. `git remote add ssh-origin <repository SSH URL>` -> add a new origin by SSH
+    5. `git remote set-url origin <repository SSH URL>` -> change a remote origin from HTTPS to SSH
 
 
 ## Sources
