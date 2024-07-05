@@ -12,7 +12,7 @@ Feel free to explore, learn, and contribute as I continue to update this reposit
 ## Status
 
 * API -> ⌛
-* Docker -> ⌛
+* Docker -> ✅
 * Git -> ✅
 * Linux -> ⌛
 * Machine Learning -> ⌛
