@@ -83,15 +83,6 @@ requests, task management, continuous integration, and wikis for every project
 `Note`: In GitHub you can submit a pull request to compare and merge your branches into the main branch (no code
 required)
 
-`Work flow`: The GitHub flow works like this:
-
-1. Create a new Branch
-2. Make changes and add Commits
-3. Open a Pull Request
-4. Review
-5. Deploy
-6. Merge
-
 `Fork`: a fork is a copy of a repository. This is useful when you want to contribute to someone else's project or start
 your own project based on theirs. fork is not a command in Git, but something offered in GitHub and other repository
 hosts
