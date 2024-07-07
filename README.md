@@ -9,14 +9,27 @@ This repository serves as a comprehensive collection of everything I've learned 
 Feel free to explore, learn, and contribute as I continue to update this repository with new insights and techniques. Let's embark on this Data Science and Analytics journey together!
 
 
-## Status
+## Status based on priorities
 
-* API -> ⌛
-* Docker -> ✅
-* Git -> ✅
-* Linux -> ⌛
-* Machine Learning -> ⌛
-* MLOps -> ⌛
-* Power BI -> ⌛
-* R -> ⌛
-* SQL -> ⌛
+### ✅ Done
+
+* Git
+* Docker
+
+### ⌛ In progress
+
+* API
+
+### ➡️ Later
+
+* Linux
+* Database
+* UI
+* MLOps
+* CI/CD
+* Python
+* Deep Learning
+* Machine Learning
+* Power BI
+* R
+* C++
