@@ -38,38 +38,38 @@ Start day: September 5, 2024
 
 ## Progress Display
 
-- **1. Computer Basics**
+**1. Computer Basics**
     - ⌛ General Concepts
     - ⌛ Windows Basics
     - ⌛ Linux Basics
     - ⌛ Development Setup
 
-- **2. Programming**
+**2. Programming**
     - ⌛ Python
     - ⌛ C++
     - ⌛ Design Patterns
 
-- **3. Version Control**
+**3. Version Control**
     - ✅ Git
 
-- **4. Mathematics**
+**4. Mathematics**
     - ⌛ Mathematical Concepts
     - ⌛ Probability and Statistics
 
-- **5. Data**
+**5. Data**
     - ⌛ Data Concepts
     - ⌛ Database
     - ⌛ Data Analysis
     - ⌛ Data Engineering
     - ⌛ Applications
 
-- **6. Machine Learning**
+**6. Machine Learning**
     - ⌛ ML Basics
     - ⌛ Supervised Learning
     - ⌛ Unsupervised Learning
     - ⌛ Applications
 
-- **7. Deep Learning**
+**7. Deep Learning**
     - ⌛ DL Concepts
     - ⌛ Tools
     - ⌛ Architectures
@@ -77,7 +77,7 @@ Start day: September 5, 2024
     - ⌛ Applications
     - ⌛ Techniques
 
-- **8. MLOps**
+**8. MLOps**
     - ⌛ MLOps Concepts
     - ⌛ API Development
     - ⌛ CI-CD
