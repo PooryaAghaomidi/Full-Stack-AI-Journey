@@ -1,4 +1,4 @@
-# AI-Data-Science-Journey
+# Full Stack AI Journey
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)
 ![C++](https://img.shields.io/badge/C%2B%2B-17-00599C.svg)
