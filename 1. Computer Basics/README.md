@@ -4,12 +4,14 @@ In this section, you'll cover the essential computer concepts, including hardwar
 
 ## 1.1 General Concepts
 
-* Understanding Computer Hardware
-* Operating Systems Overview
-* File Systems
-* File Management
-* File Permissions
+* Computer Hardware Basics
+* How Computers Process Information
+* Operating System Basics
+* Networking Basics
+* Command-Line Interface (CLI)
 * Basic Networking Concepts
+* Software Installation and Package Managers
+* Virtualization and Containers
 
 ## 1.2 Windows Basics
 
