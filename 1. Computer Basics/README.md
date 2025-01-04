@@ -11,8 +11,6 @@ operating systems.
 * Operating System Basics
 * Networking Basics
 * Command-Line Interface (CLI)
-* Basic Networking Concepts
-* Software Installation and Package Managers
 * Virtualization and Containers
 
 ## 1.2 Windows Basics
