@@ -6,36 +6,8 @@ operating systems.
 
 ## 1.1 General Concepts
 
-* Computer Hardware Basics
-* How Computers Process Information
-* Operating System Basics
-* Networking Basics
-* Command-Line Interface (CLI)
-* Virtualization and Containers
-
 ## 1.2 Windows Basics
-
-* Navigating the Windows Interface
-* Command Line Basics
-* Windows PowerShell
-* Task Management and System Monitoring
-* Software Installation and Management
 
 ## 1.3 Linux Basics
 
-* Navigating the Linux File System
-* Basic Linux Commands
-* Linux Permissions and Ownership
-* Process Management
-* System Monitoring
-* Package Management
-* Shell Scripting Basics
-* System Configuration and Management
-* Basic Networking in Linux
-* Introduction to Text Editors
-* Understanding Shells
-
 ## 1.4 Development Setup
-
-* Installing and Configuring an IDE/Code Editor
-* Setting Up a Development Environment
